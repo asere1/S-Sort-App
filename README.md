@@ -36,7 +36,7 @@ FreelanceProjectApp is a Flutter application designed to streamline the process 
 *The explore screen lists users with pagination for efficient browsing. Users can also apply filters to narrow down their search, making it easier to find suitable freelancers or clients.*
 
 ### Profile Screen
-![profile](https://github.com/asere1/S-Sort-App/assets/77078891/d933cbf1-aced-4e64-96f6-f0f9eae91e44)
+![My Profile](https://github.com/asere1/S-Sort-App/assets/77078891/9848f88b-8821-4cc5-9795-4eb8d6fca5e6)
 
 *The profile screen allows users to manage their personal information, edit details, and share their profiles with others, enhancing their visibility within the app.*
 
