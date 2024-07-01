@@ -46,7 +46,7 @@ FreelanceProjectApp is a Flutter application designed to streamline the process 
 *This screen displays notifications saved locally using a local database, ensuring that users are always informed about important updates and messages.*
 
 ### Group Chat Screen
-![Public Group Chat](https://github.com/asere1/S-Sort-App/assets/77078891/2cff2d4c-1dba-4bf1-b4b1-4ef1a207de27)
+![Public Group Chat](https://github.com/asere1/S-Sort-App/assets/77078891/32cd28f0-2559-4aa7-aa4d-bb08dc001e27)
 
 *The group chat screen supports sending images and audio messages, providing a rich communication experience for users collaborating on projects.*
 
