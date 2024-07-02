@@ -6,7 +6,7 @@
 
 ## Introduction
 
-FreelanceProjectApp is a Flutter application designed to streamline the process of connecting freelancers with clients. Built with a robust backend powered by Firebase, this app ensures secure authentication, efficient user management, and real-time notifications. The app is rich with features, including in-app purchases, group chats, and highly customizable settings to enhance user experience and engagement.
+S-Sort App is a Flutter application designed to streamline the process of connecting users from different places with has same interest. Built with a robust backend powered by Firebase, this app ensures secure authentication, efficient user management, and real-time notifications. The app is rich with features, including in-app purchases, group chats, and highly customizable settings to enhance user experience and engagement.
 
 ## Features
 
